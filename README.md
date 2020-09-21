@@ -9,8 +9,6 @@ Script for mercadopago massive payment links generator
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Quickstart](#quickstart)
-- [Contributing](#contributing)
-- [Further reading / Useful links](#further-reading--useful-links)
 
 ## Prerequisites
 
@@ -34,7 +32,7 @@ To use Link-Generator, follow these steps:
 2. Run the main file:
 
 ```
-$pyton3 main.py
+$python3 main.py
 ```
 
 3. Check the output.xlsx file with your links
