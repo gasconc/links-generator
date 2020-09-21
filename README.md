@@ -29,6 +29,8 @@ $pip3 install requirements.txt
 To use Link-Generator, follow these steps:
 
 1. Data file: Copy&Paste the Data.xlsx file in the same path of main.py
+![Screen Shot 2020-09-21 at 9 01 16 AM](https://user-images.githubusercontent.com/25534296/93776360-15ce1300-fbe9-11ea-825f-d29f3f77b601.png)
+2. Configure your access token in the line 14 of the main.py file, credentials available here: https://www.mercadopago.com.co/developers/panel/credentials
 2. Run the main file:
 
 ```
@@ -37,6 +39,4 @@ $python3 main.py
 
 3. Check the output.xlsx file with your links
 
-## Contact
 
-If you want to contact me you can reach me at cristian.gascon@mercadolibre.com.co
