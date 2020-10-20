@@ -1,3 +1,5 @@
+DISCLAIMER : This is NOT an official tool of mercadopago!, this is an open source project. If you have any doubts about mercadopago's services please contact the support channel - https://www.mercadopago.com.co/developers/es/support/
+
 # Links-generator
 
 [![python](https://img.shields.io/badge/python-v3.7.X-green.svg)](https://www.python.org/)
